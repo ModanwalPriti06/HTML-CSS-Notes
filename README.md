@@ -82,3 +82,5 @@ Styles specific parts of elements.
 ::before
 ::after
 ```
+> [!Important]
+> justify-content: center;(horizontal) | align-items: center;  (vertical)
