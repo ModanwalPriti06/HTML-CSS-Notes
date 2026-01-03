@@ -84,3 +84,9 @@ Styles specific parts of elements.
 ```
 > [!Important]
 > justify-content: center;(horizontal) | align-items: center;  (vertical)
+
+## 20.box-sizing
+box-sizing controls how width and height are calculated.
+```
+box-sizing: border-box;
+```
